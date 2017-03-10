@@ -17,5 +17,5 @@ major_cities.each do |x, y|
   city = y
     y.each do
     end
-  puts "#{x} has three main cities: #{y[0..-2].join(", ")} and #{y[-1]}"
+  puts "#{x} has #{y.length} main cities: #{y[0..-2].join(", ")} and #{y[-1]}"
 end
