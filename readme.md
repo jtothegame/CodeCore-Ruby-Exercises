@@ -11,10 +11,11 @@ book.title = "My Awesome Book"
 book.add_chapter("My Awesome Chapter 1")
 book.add_chapter("My Awesome Chapter 2")
 book.chapters
-# This should print:
-# Your book: My Awesome Book has 2 chapters:
-# 1. My Awesome Chapter 1
-# 2. My Awesome Chapter 2
+
+This should print:
+Your book: My Awesome Book has 2 chapters:
+1. My Awesome Chapter 1
+2. My Awesome Chapter 2
 
 Question 3
 
